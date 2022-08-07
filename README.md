@@ -1,1 +1,1 @@
-# ecomarx.github.io
+# Página do Grupo de Estudos Ecologia e Marxismo

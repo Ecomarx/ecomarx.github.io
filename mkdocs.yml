@@ -1,0 +1,37 @@
+site_name: Grupo de Estudos Ecologia e Marxismo
+repo_url: https://github.com/Ecomarx/ecomarx.github.io
+theme:
+  name: material
+  palette:
+    primary: green
+  features:
+    - navigation.tabs
+  language: pt
+markdown_extensions:
+  - footnotes
+nav:
+  - "Sobre": 
+    - index.md
+  - "Ciclos de Estudo":
+    - ciclos.md
+    - "6ᵒ Ciclo - Julho a Setembro, 2022":
+      - 6o-ciclo/index.md
+      - 6o-ciclo/1o-encontro.md
+      - 6o-ciclo/2o-encontro.md
+      - 6o-ciclo/3o-encontro.md
+  - Material:
+    - material/index.md
+    - material/podcasts.md
+  - CONTRIBUTING.md
+  - SUPPORT.md
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/GEcomarx
+      name: EcoMarx no Twitter
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/geecomarx/
+      name: EcoMarx no Instagram
+    - icon: fontawesome/brands/whatsapp
+      link: https://chat.whatsapp.com/EHNP8AwJ7Hd256XQjZjDMg
+      name: Canal de Informes no Whatsapp
