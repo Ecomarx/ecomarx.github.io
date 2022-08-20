@@ -1,4 +1,4 @@
-# 3ᵒ Encontro - MDB e Simone Tebet
+# 4ᵒ Encontro - Vera Lúcia (PSTU)
 
 Data: 13 de Agosto de 2022
 
