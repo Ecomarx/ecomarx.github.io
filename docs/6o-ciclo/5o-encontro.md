@@ -9,6 +9,7 @@ Nesse encontro estudamos materiais sobre a candidata à presidência Sofia Manza
 Links:
 
 - Proposta de Governo no Site do TSE - [Programa Político do PCB para as Eleições 2022](https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2022/BR/BR/544/candidatos/890829/programa.pdf)
+    - [Plano de governo: Sofia Manzano (PCB)](https://g1.globo.com/politica/eleicoes/2022/noticia/2022/08/01/programa-de-governo-presidenciavel-sofia-manzano-pcb.ghtml) - resumo no G1
 - Texto - [Resumo do plano de governo no G1](https://g1.globo.com/politica/eleicoes/2022/noticia/2022/08/01/programa-de-governo-presidenciavel-sofia-manzano-pcb.ghtml)
 - Entrevista 
     - Texto - [O PCB tem um projeto político de transformação radical](https://pcb.org.br/portal2/28549)
