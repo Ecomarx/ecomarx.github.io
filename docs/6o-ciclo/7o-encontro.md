@@ -13,5 +13,7 @@ Links:
 - Vídeo - [JN entrevista Ciro Gomes (PDT)](https://globoplay.globo.com/v/10875842/) - 41:04 - 24 de Agosto de 2022 - Globo
     - Vídeo - [Ciro Gomes responde a pergunta sobre meio ambiente ao JN](https://youtu.be/xvjOBnQf1dY) - 6:40 - Canal g1
     - Texto - [Checamos a entrevista de Ciro Gomes ao Jornal Nacional](https://www.aosfatos.org/noticias/checamos-a-entrevista-de-ciro-gomes-ao-jornal-nacional/) - Agência Aos-fatos
+- Livro - Projeto Nacional: O Dever da Esperança
+    - Capítulos _Brasil, O Celeiro do Mundo_,  _Não Podemos Escolher entre Produzir e Preservar_, _Reespiritualizar a sociedade_
 - Artigo da Wikipedia - [Ciro Gomes](https://pt.wikipedia.org/wiki/Ciro_Gomes)
 - Artigo da Wikipedia - [PDT](https://pt.wikipedia.org/wiki/Partido_Democr%C3%A1tico_Trabalhista)
