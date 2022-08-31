@@ -1,6 +1,6 @@
 # Referências
 
-Nessa seção juntamos referências gerais que contém infomrações úteis para esse ciclo:
+Nessa seção juntamos referências gerais que contém informações úteis para esse ciclo:
 
 - [Tribunal Superior Eleitoral](https://www.tse.jus.br)
     - [TSE - Calendário Eleitoral](https://www.tse.jus.br/eleicoes/calendario-eleitoral/calendario-eleitoral)
