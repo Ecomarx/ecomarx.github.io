@@ -1,4 +1,4 @@
-# 7ᵒ Encontro - Leonardo Péricles (UP)
+# 8ᵒ Encontro - Leonardo Péricles (UP)
 
 Data: 10 de Setembro de 2022
 
