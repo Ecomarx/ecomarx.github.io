@@ -4,6 +4,5 @@ Somos um grupo de estudo que se dedica a estudar e discutir materiais relacionad
 
 Organizamos os nosso estudo em ciclos e cada ciclo tem um certo número de encontros que duram em média 1h e 30m.
 
-Atualmente estamos no 6o ciclo onde estamos investigando e discuting oplanos de governos das eleições de 2022.
-
-**[Inscreva-se AQUI](https://docs.google.com/forms/d/e/1FAIpQLSfQ9OXb9F63McdJ7enaeVddEcFk7DONdlVMMwq02snHpGIY6w/viewform)** para o ciclo atual (incrições ainda estão abertas).
+O nosso último ciclo ocorreu entre **9 de julho** de 2022 e **24 de setembro** do mesmo ano.
+Nele investigamos e discutimos os planos de governo de diversos candidatos das eleições presidenciais de 2022.
