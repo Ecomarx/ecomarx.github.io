@@ -7,6 +7,8 @@ Organizamos os nosso estudo em ciclos e cada ciclo tem um certo número de encon
 O nosso último ciclo ocorreu entre **9 de julho** de 2022 e **24 de setembro** do mesmo ano.
 Nele investigamos e discutimos os planos de governo de diversos candidatos das eleições presidenciais de 2022.
 
+No **próximo ciclo** planejamos estudar e discutir sobre o podcast **[Tempo Quente](https://radionovelo.com.br/originais/tempoquente/)**. Os encontros devem ocorrer aos **sábados às 14hs de 25 de março a 27 de maio**.
+
 ## Saiba mais
 
 O Grupo de Estudos de Ecologia e Marxismo (EcoMarx) surgiu, e continua a existir, a partir de um interesse de capacitação pessoal e coletiva acerca das questões sociais e políticas que ameaçam a sustentabilidade da vida na Terra.
