@@ -13,10 +13,10 @@ O Grupo de Estudos de Ecologia e Marxismo (EcoMarx) surgiu, e continua a existir
 
 Reconhecemos a priori que o Modo de Produção Capitalista é constituído, intrinsecamente, por uma lógica de produção e consumo contraditória e incompatível com a capacidade de resiliência ecológica e social da do planeta Terra. Contrariando as narrativas convencionais de sustentabilidade e responsabilidade social, buscamos aprofundar nossos conhecimentos ecológicos e políticos por meio da leitura e do debate sobre questões da atualidade e teorias críticas e revolucionárias que ajudem a melhor compreender essas questões.
 
-## Missão (Por que existimos? Raison d’etre)
+### Missão (Por que existimos? Raison d’etre)
 
 Trazer teorias e práticas ecológicas anticapitalistas para analisar a situação ambiental e climática atual para pessoas interessadas em pesquisa acadêmica, militância ou que apenas tenham interesse em aprofundar ou construir conhecimentos através da leitura e troca de vivências, construindo um novo modelo de sociedade, pensado a partir de uma perspectiva ecológica e social, por meio da capacitação e da militância ecológica crítica.
 
-## Visão (Onde queremos chegar)
+### Visão (Onde queremos chegar)
 
 Formar um grupo de troca de experiências e conhecimentos autônomo, que traga informações e desperte o interesse de um número crescente de pessoas a participar do grupo ou apenas buscar conhecimentos teóricos e práticos sobre  a ecologia política de maneira geral.
