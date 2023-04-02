@@ -9,6 +9,9 @@ theme:
   language: pt
 markdown_extensions:
   - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - "Sobre": 
     - index.md
@@ -34,6 +37,9 @@ nav:
   - SUPPORT.md
 extra:
   social:
+    - icon: fontawesome/solid/link 
+      link: https://linktr.ee/ecomarxgrupo
+      name: Linktree - Links do EcoMarx
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/GEcomarx
       name: EcoMarx no Twitter
