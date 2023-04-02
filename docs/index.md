@@ -2,12 +2,13 @@
 
 Somos um grupo de estudo que se dedica a estudar e discutir materiais relacionados a ecologia e marxismo.
 
-Organizamos os nosso estudo em ciclos e cada ciclo tem um certo número de encontros que duram em média 1h e 30m.
+Organizamos os nosso estudo em ciclos e cada ciclo tem um certo número de encontros que duram em média 1h e 30m. Saiba mais em [Sobre os ciclos](ciclos.md).
 
-O nosso último ciclo ocorreu entre **9 de julho** de 2022 e **24 de setembro** do mesmo ano.
-Nele investigamos e discutimos os planos de governo de diversos candidatos das eleições presidenciais de 2022.
+## Ciclo 7 - Em Andamento - Inscrições Abertas
 
-No **próximo ciclo** planejamos estudar e discutir sobre o podcast **[Tempo Quente](https://radionovelo.com.br/originais/tempoquente/)**. Os encontros devem ocorrer aos **sábados às 14hs de 25 de março a 27 de maio**.
+No **ciclo atual** estamos estuando e discutindo o **podcast [Tempo Quente](https://radionovelo.com.br/originais/tempoquente/)**🎧. Os encontros ocorrem aos  **sábados das ⏰ 14hs as 15hs (BRT, horário de Brasília) de 🗓️ 25 de março a 27 de maio**. Mais informações [aqui](7o-ciclo/index.md). As incrições seguem abertas. **[Increva-se!][ciclo7-increva-se]**
+
+[ciclo7-increva-se]: https://docs.google.com/forms/d/e/1FAIpQLScaqq3-xPpexCGAv-riPa69G3vlXTGqwFoh8QT5h3NqLaLPBg/viewform
 
 ## Saiba mais
 

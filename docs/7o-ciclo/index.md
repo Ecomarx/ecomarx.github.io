@@ -1,11 +1,20 @@
 # 7ᵒ Ciclo - Informações Gerais
 
-O sétimo ciclo vai de 25 de março a 27 de maio de 2023. Neste ciclo iremos discutir os aprendizados do podcast [Tempo Quente](https://radionovelo.com.br/originais/tempoquente/), publicado pela [Rádio Novelo](https://radionovelo.com.br/) e apresentado pela jornalista Giovana Girardi.
+O sétimo ciclo vai de 🗓️ **25 de março a 27 de maio de 2023**. Neste ciclo discutimos os aprendizados do podcast [Tempo Quente](https://radionovelo.com.br/originais/tempoquente/)🎧, publicado pela [Rádio Novelo](https://radionovelo.com.br/) e apresentado pela jornalista Giovana Girardi.
 
 > O Brasil tinha tudo pra ser uma potência ambiental, mas tá ficando cada vez mais pra trás. A ciência alerta há décadas sobre a emergência climática, mas ninguém faz nada pra mudar. Está todo mundo perdendo nessa história – e isso a gente sabe. Agora: quem é que tá ganhando?
 
+As incrições seguem abertas. **[Increva-se!][ciclo7-increva-se]**
+
+[ciclo7-increva-se]: https://docs.google.com/forms/d/e/1FAIpQLScaqq3-xPpexCGAv-riPa69G3vlXTGqwFoh8QT5h3NqLaLPBg/viewform
+
+Trailers:
+- [YouTube](https://youtu.be/B30bF2GypJ0)
+- [Audio](https://omny.fm/shows/tempo-quente/tempo-quente-trailer)
 
 ## Encontros
+
+Os encontros acontecem todos ⏰ **sábados das 14:00 as 15:30 (BRT, horário de Brasília)**.
 
 - 25 de março - Encontro introdutório
 - 1 de abril - [Episódio 1 - Alerta vermelho](https://radionovelo.com.br/originais/tempoquente/alerta-vermelho/)

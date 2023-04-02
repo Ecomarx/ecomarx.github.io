@@ -14,7 +14,7 @@ nav:
     - index.md
   - "Ciclos de Estudo":
     - ciclos.md
-    - "2ᵒ Ciclo - Junho a Agosto, 2021": 2o-ciclo/index.md
+    - "7ᵒ Ciclo - Março a Maio, 2022": 7o-ciclo/index.md
     - "6ᵒ Ciclo - Julho a Setembro, 2022":
       - 6o-ciclo/index.md
       - 6o-ciclo/referencias.md
@@ -25,7 +25,7 @@ nav:
       - 6o-ciclo/5o-encontro.md
       - 6o-ciclo/6o-encontro.md
       - 6o-ciclo/7o-encontro.md
-    - "7ᵒ Ciclo - Março a Maio, 2022": 7o-ciclo/index.md
+    - "2ᵒ Ciclo - Junho a Agosto, 2021": 2o-ciclo/index.md
   - Material:
     - material/index.md
     - material/glossario.md
