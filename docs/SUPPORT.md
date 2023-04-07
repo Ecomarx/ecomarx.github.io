@@ -5,6 +5,8 @@ Caso você queira entrar em contato com o EcoMarx use as nossas redes sociais:
 - [:fontawesome-brands-twitter: Twitter - @GEcomarx](https://twitter.com/GEcomarx)
 - [:fontawesome-brands-instagram: Instagram - @geecomarx](https://www.instagram.com/geecomarx/)
 
+Para sugestões de melhorias ou reportar problemas com o site, [crie uma issue no GitHub](https://github.com/Ecomarx/ecomarx.github.io/issues/new).
+
 Você também pode se manter informado nos nossos canais:
 
 - [:fontawesome-brands-whatsapp: Whatsapp](https://chat.whatsapp.com/EHNP8AwJ7Hd256XQjZjDMg)
